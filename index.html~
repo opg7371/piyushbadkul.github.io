@@ -151,7 +151,7 @@ scratch.</p>
 					<p>This is also a mini project implemented in java used to understand the implementation of JDBC.Simple project to choose the candidate from your constituency..</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="images/feature-3.jpg" alt="Feature image" class="img-responsive">
+					<img src="images/feature-4.jpg" alt="Feature image" class="img-responsive">
 				</div>
 			</div> <!-- end row -->
 
@@ -191,33 +191,7 @@ scratch.</p>
 			</div> <!-- end row -->
 		</section>
 	</div> <!-- end container -->
-
-
-
-	<!-- TRIAL -->
-	<section>
-		<div class="well">
-			<div class="container text-center">
-				<h3>Please ping me for queries!</h3>
-				<p>Enter your name and email below</p>
-
-				<form action="#" class="form-inline" role="form">
-					<div class="form-group">
-						<label for="subscribe-name" class="sr-only">Name</label>
-						<input type="text" class="form-control" id="subscribe-name" placeholder="Name">
-					</div> <!-- end form-group -->
-					<div class="form-group">
-						<label for="subscribe-email" class="sr-only">Email address</label>
-						<input type="text" class="form-control" id="subscribe-email" placeholder="Email address">
-					</div> <!-- end form-group -->
-
-					<button type="submit"  class="btn btn-default">Ping Me.</button>
-				</form>
-			</div> <!-- end container -->
-		</div> <!-- end well -->
-	</section>
-
-
+ 
 	<div class="container">
 		
 		<!-- F.A.Q. -->
@@ -366,7 +340,7 @@ I am an active participant at sport coding at various coding sites .
 
 			<div class="row">
 				<div class="col-lg-4">
-					<p>To send us a message, use the contact form or call me.</p>
+					<p>To send me a message, use the contact form or call me.</p>
 
 					<address>
 						<strong>Piyush Badkul</strong><br>
